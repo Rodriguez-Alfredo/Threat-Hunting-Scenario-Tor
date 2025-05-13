@@ -75,7 +75,7 @@ DeviceFileEvents
 ## Created By:
 - **Author Name**: Alfredo Rodriguez
 - **Author Contact**: https://www.linkedin.com/in/alfredorodriguez-/
-- **Date**: May 513, 2025
+- **Date**: May 13, 2025
 
 ## Validated By:
 - **Reviewer Name**: 
@@ -92,4 +92,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `September  6, 2024`  | `Josh Madakor`   
+| 1.0         | Initial draft                  | ``  | ``   
